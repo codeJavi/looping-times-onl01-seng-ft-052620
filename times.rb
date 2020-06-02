@@ -1,5 +1,5 @@
 def using_times
-	#your code here
+	"puts out the phrase 'Wingardium Leviosa' 7 times by using the 'times' construct"
 end
 
 
