@@ -5,9 +5,7 @@ def using_times
   
 using_times 
 
-Looping_string = "Wingardium Leviosa"
-expect{ using_times }.to output(looping_string).to_stdout
-end 
+
 
 
 
