@@ -3,8 +3,10 @@ def using_times
     puts "Wingardium Leviosa"
   end 
 
+using_times 
+Looping_string = "Wingardium Leviosa"
 expect{ using_times }.to output(looping_string).to_stdout
-
+end 
 
 
 
